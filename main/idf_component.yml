@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  lvgl/lvgl:
+    version: 9.2.*
+    public: true
+  waveshare/esp_lcd_jd9365_10_1: ^1.0.1
